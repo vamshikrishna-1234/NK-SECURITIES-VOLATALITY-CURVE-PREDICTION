@@ -1,3 +1,5 @@
+I secured rank 15 in NK Securities Research Hackathon 2025, This is a repo of my work during the hackathon.
+
 Please use the following as a guide in case of any confusion:
 This folder contains 3 files:
 
